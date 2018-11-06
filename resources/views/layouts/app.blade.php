@@ -7,7 +7,7 @@
     <title>Laravel CRUD | @yield('title')</title>
 </head>
 <body>
-    @include('layouts._menu');
-    @yield('content');
+    @include('layouts._menu')
+    @yield('content')
 </body>
 </html>
